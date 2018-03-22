@@ -12,6 +12,7 @@ authors:
 - Wiez
 - Exxarion
 - jasonwynn10
+- CrazyTeamVN
 description: "Plots and Protection Plugin for PocketMine-MP Servers"
 load: STARTUP
 softdepend:
